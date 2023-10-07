@@ -1,0 +1,35 @@
+.one {
+    color: #35cb2a;
+    background-color: #108f8f;
+}
+
+.one:hover {
+    background-color: #f5f510;
+}
+
+.two {
+    color: #cc29b1;
+    background-color: #f5f510;
+}
+
+.two:hover {
+    background-color: #108f8f;
+}
+
+.three {
+    height: 25px;
+}
+
+.photo1 {
+    height: 140px;
+    width: 155px;
+    position: relative;
+    top: 5px; left: 5px;
+
+}
+
+.photo2 {
+    height: 140px;
+    width: 155px;
+    transform: translate(0px, 5%);
+}
